@@ -1,0 +1,64 @@
+#id3
+{
+  background-image: url("congrats-card-bg.png");
+height:90vh;
+width:45vw;
+margin-left: 350px;;
+margin-top: 50px;
+}
+
+#id4
+{
+  position:absolute;
+  margin-left: 180px;
+  margin-top: 30px;
+}
+#id5
+{
+  height:450px;
+  width:450px;
+  border-radius: 20px;
+  background-color:#a8e4f5;
+  margin-left: 90px;
+  position:absolute;
+  margin-top: 120px;
+}
+#img3
+{
+  height:120px;
+  width:120px;
+  margin-left: 150px;
+  position:absolute;
+  margin-top: 20px;
+}
+
+#h3
+{
+  position:absolute;
+  margin-left: 180px;
+  margin-top: 160px;
+  
+}
+
+#p1
+{
+  position:absolute;
+  margin-left: 15px;
+  margin-top: 200px;
+}
+#p2
+{
+  position:absolute;
+  margin-left: 170px;
+  margin-top: 220px;
+}
+
+#img6
+{
+  height:150px;
+  width:150px;
+  margin-left: 150px;
+  position:absolute;
+  margin-top: 280px;
+}
+

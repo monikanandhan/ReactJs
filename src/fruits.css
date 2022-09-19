@@ -1,0 +1,62 @@
+.div11
+{
+    height:600px;
+    width:700px;
+    background-color:rgb(228, 188, 114);
+    position: absolute;
+    margin-left: 350px;
+    margin-top: 50px;
+
+}
+#div12
+{
+    height:500px;
+    width:550px;
+    background-color: white;
+    margin-top: 50px;
+    margin-left:70px;
+    border-radius: 10px;
+}
+#image1
+{
+    position: relative;
+    height:250px;
+    width:250px;
+    margin-top:150px ;
+    margin-left: 30px;
+   
+}
+#image2
+{
+    position: relative;
+    height:250px;
+    width:250px;
+    margin-top:150px ;
+   
+}
+#head1
+{
+    position:absolute;
+    margin-top:80px ;
+    margin-left: 50px;
+}
+#id13
+{
+    background-color: blue;
+    margin-left: 80px;
+    color:white;
+    height:30px;
+    width:100px;
+}
+#id14
+{
+    background-color: blue;
+    margin-left: 200px;
+    color:white;
+    height:30px;
+    width:100px;
+}
+#sp1
+{
+    color:rgb(228, 188, 114);
+}
